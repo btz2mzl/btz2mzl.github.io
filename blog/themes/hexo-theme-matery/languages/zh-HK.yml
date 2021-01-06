@@ -26,7 +26,7 @@ postTagTitle: 文章標籤
 postCategoryTitle: 文章分類
 categoryRadarTitle: 文章分類雷達圖
 categoryNumber: 文章分類數量
-categoryEmptyTip: 你目前還沒有對文章進行分類.
+categoryEmptyTip: 目前還沒有對文章進行分類.
 postCharts: 文章統計圖
 postPublishChart: 文章發布統計圖
 categoriesChart: 文章分類統計圖
