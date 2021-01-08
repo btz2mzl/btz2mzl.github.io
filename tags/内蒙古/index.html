@@ -320,7 +320,7 @@
 
 <script>
     // 每天切换 banner 图.  Switch banner image every day.
-    var bannerUrl = "/medias/banner/" + new Date().getDay() + '.jpg';
+    var bannerUrl = "/medias/featureimages/" + new Date().getDay() + '.jpg';
     $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
 </script>
 
@@ -341,19 +341,118 @@
             <div class="tag-chips">
                 
                 
-                <a href="/tags/%E5%86%85%E8%92%99%E5%8F%A4/" title="内蒙古: 1">
+                <a href="/tags/%E5%8D%8E%E5%8C%97/" title="华北: 12">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="华北" style="background-color: #F9EBEA;">华北
+                        <span class="tag-length">12</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E5%8F%A4%E5%9F%8E/" title="古城: 6">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="古城" style="background-color: #F5EEF8;">古城
+                        <span class="tag-length">6</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E6%B2%B3%E5%8C%97/" title="河北: 5">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="河北" style="background-color: #D5F5E3;">河北
+                        <span class="tag-length">5</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E5%86%85%E8%92%99%E5%8F%A4/" title="内蒙古: 2">
                     <span class="chip center-align waves-effect waves-light
                              chip-active "
-                            data-tagname="内蒙古" style="background-color: #F9EBEA;">内蒙古
+                            data-tagname="内蒙古" style="background-color: #E8F8F5;">内蒙古
+                        <span class="tag-length">2</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E5%B7%A5%E4%B8%9A%E5%9F%8E%E5%B8%82/" title="工业城市: 8">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="工业城市" style="background-color: #FEF9E7;">工业城市
+                        <span class="tag-length">8</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E5%A4%A7%E5%9F%8E%E5%B8%82/" title="大城市: 3">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="大城市" style="background-color: #F8F9F9;">大城市
+                        <span class="tag-length">3</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E5%B1%B1%E8%A5%BF/" title="山西: 3">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="山西" style="background-color: #82E0AA;">山西
+                        <span class="tag-length">3</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E4%B8%9C%E5%8C%97/" title="东北: 4">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="东北" style="background-color: #D7BDE2;">东北
+                        <span class="tag-length">4</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E9%BB%91%E9%BE%99%E6%B1%9F/" title="黑龙江: 3">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="黑龙江" style="background-color: #A3E4D7;">黑龙江
+                        <span class="tag-length">3</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E5%90%89%E6%9E%97/" title="吉林: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="吉林" style="background-color: #85C1E9;">吉林
                         <span class="tag-length">1</span>
                     </span>
                 </a>
                 
                 
-                <a href="/tags/%E4%B8%AD%E5%9B%BD/" title="中国: 1">
+                <a href="/tags/%E8%87%AA%E7%84%B6/" title="自然: 2">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="中国" style="background-color: #F5EEF8;">中国
+                            data-tagname="自然" style="background-color: #F8C471;">自然
+                        <span class="tag-length">2</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E5%B0%8F%E5%9F%8E/" title="小城: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="小城" style="background-color: #F9E79F;">小城
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E5%8D%8E%E4%B8%9C/" title="华东: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="华东" style="background-color: #82E0AA;">华东
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -369,12 +468,43 @@
         <div class="row tags-posts">
             
             
-            <div class="article tag-post col s12 m6 l4" data-tags="内蒙古, 中国" data-aos="fade-up">
+            <div class="article tag-post col s12 m6 l4" data-tags="华北, 内蒙古" data-aos="fade-up">
                 <div class="card">
-                    <a href="/2020/01/05/post-baotou/">
+                    <a href="/2021/01/07/1/post-hohhot/">
                         <div class="card-image tag-image">
                             
-                            <img src="/images/baotou_1.jpg" class="responsive-img" alt="包头 (Baotou)">
+                            <img src="/images/1/hohhot_1.jpg" class="responsive-img" alt="呼和浩特 (Hohhot)">
+                            
+                            <span class="card-title">呼和浩特 (Hohhot)</span>
+                        </div>
+                    </a>
+                    <div class="card-content article-content">
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-01-07
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fas fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/Markdown/" class="post-category">
+                                Markdown
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="article tag-post col s12 m6 l4" data-tags="华北, 内蒙古, 工业城市" data-aos="fade-up">
+                <div class="card">
+                    <a href="/2020/01/05/1/post-baotou/">
+                        <div class="card-image tag-image">
+                            
+                            <img src="https://raw.githubusercontent.com/btz2mzl/btz2mzl.github.io/main/blog/themes/hexo-theme-matery/source/medias/featureimages/0.jpg" class="responsive-img" alt="包头 (Baotou)">
                             
                             <span class="card-title">包头 (Baotou)</span>
                         </div>
@@ -423,6 +553,8 @@
             
             
             
+            
+            
             <span id="busuanzi_container_site_pv">
                 |&nbsp;<i class="far fa-eye"></i>&nbsp;总访问量:&nbsp;<span id="busuanzi_value_site_pv"
                     class="white-color"></span>&nbsp;次
@@ -439,7 +571,7 @@
             <br>
             
         </div>
-        <div class="col s12 m4 l4 social-link ">
+        <div class="col s12 m4 l4 social-link social-statis">
     <a href="https://github.com/btz2mzl" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
     </a>
@@ -609,6 +741,8 @@ $(function () {
     
     <script src="/libs/others/clicklove.js" async="async"></script>
     
+    
+    <script async src="/libs/others/busuanzi.pure.mini.js"></script>
     
 
     
