@@ -16,9 +16,9 @@ menu:
   About:
     url: /about
     icon: fas fa-user-circle
-  Contact:
-    url: /contact
-    icon: fas fa-comments
+  #Contact:
+  #  url: /contact
+  #  icon: fas fa-comments
   #Friends:
   #  url: /friends
   #  icon: fas fa-address-book
@@ -109,7 +109,7 @@ video:
 # Whether to display the title of the recommended posts
 # 是否显示推荐文章的标题
 recommend:
-  enable: false
+  enable: true
   showTitle: true
   useConfig: false # 是否使用配置文件, 在 _data/recommends.json 下配置推荐文章, false则会走主题配置的 top 属性
   # useConfig 使用方式: 将主题 hexo-theme-matery/source/_data/recommends.json 移动到 my-blog/source/_data/下修改配置即可
@@ -169,8 +169,8 @@ reward:
 # minCharNumber: Approve copyright information by copying at least how many characters.
 # 是否激活复制文章时追加博客和作者的版权信息.
 copyright:
-  enable: false
-  minCharNumber: 120 # 至少复制多少个字符就追加版权信息.
+  enable: true
+  minCharNumber: 10 # 至少复制多少个字符就追加版权信息.
   description: 本文章著作权归作者所有，任何形式的转载都请注明出处。
 
 # Whether to activate the mathjax, this is a global configuration, but the post still does not open the mathjax rendering.
@@ -198,7 +198,7 @@ postInfo:
 # Whether to activate the 'love' effect of clicking on the page.
 # 是否激活点击页面的'爱心'效果，默认激活.
 clicklove:
-  enable: true
+  enable: false
 
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
@@ -261,7 +261,24 @@ myGallery:
   enable: true
   data:
     - /medias/featureimages/0.jpg
-    - /medias/featureimages/1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/1/hohhot_1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/rail/qingzang_2.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/5/nyingchi_4.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/6/jiayuguan_3.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/rail/hexi_3.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/2/mohe_3.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/6/yinchuan_1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/6/jiuquan_1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/3/weihai_1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/3/qingdao_1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/3/xiamen_1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/3/jiaxing_1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/3/nanjing_1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/1/jinzhong_2.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/1/taiyuan_1.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/2/changchun_2.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/1/beijing_4.jpg
+    - https://raw.githubusercontent.com/btz2mzl/album_images/main/3/shanghai_3.jpg
 
 # Whether to display post-calender in the `archive` page
 # 设置在归档页面中是否显示'文章日历'控件
@@ -548,7 +565,7 @@ ribbon_dynamic:
 # sharejs文章分享模块.
 # 支持顺序，可选项目为twitter, facebook, google, qq, qzone, wechat, weibo, douban, linkedin.
 sharejs:
-  enable: true
+  enable: false
   sites: twitter,facebook,google,qq,qzone,wechat,weibo,douban,linkedin
 
 # addthis文章分享模块.
