@@ -177,11 +177,11 @@
       
         <tags>
             
+            <tag> 森林 </tag>
+            
             <tag> 东北 </tag>
             
             <tag> 黑龙江 </tag>
-            
-            <tag> 森林 </tag>
             
             <tag> 铁路 </tag>
             
@@ -508,11 +508,11 @@
       
         <tags>
             
-            <tag> 小城 </tag>
-            
             <tag> 华东 </tag>
             
             <tag> 山东 </tag>
+            
+            <tag> 小城 </tag>
             
         </tags>
       
@@ -531,11 +531,11 @@
       
         <tags>
             
-            <tag> 小城 </tag>
-            
             <tag> 华东 </tag>
             
             <tag> 山东 </tag>
+            
+            <tag> 小城 </tag>
             
             <tag> 海 </tag>
             
@@ -709,11 +709,11 @@
       
         <tags>
             
-            <tag> 小城 </tag>
-            
             <tag> 华东 </tag>
             
             <tag> 江西 </tag>
+            
+            <tag> 小城 </tag>
             
         </tags>
       
@@ -1917,11 +1917,11 @@
             
             <tag> 自然 </tag>
             
+            <tag> 小城 </tag>
+            
             <tag> 东北 </tag>
             
             <tag> 黑龙江 </tag>
-            
-            <tag> 小城 </tag>
             
         </tags>
       
@@ -2141,8 +2141,14 @@
       <link href="2020/01/05/index/"/>
       <url>2020/01/05/index/</url>
       
-        <content type="html"><![CDATA[<p>记录那些难忘的瞬间，重温那些片刻的感受。<br><img src="https://raw.githubusercontent.com/btz2mzl/btz2mzl.github.io/main/blog/themes/hexo-theme-matery/source/medias/featureimages/cities.jpg" alt="走过的地方"><br><img src="https://raw.githubusercontent.com/btz2mzl/btz2mzl.github.io/main/blog/themes/hexo-theme-matery/source/medias/featureimages/rail_visited.jpg" alt="感受过的线路"></p>]]></content>
+        <content type="html"><![CDATA[<p>记录那些难忘的瞬间，重温那些片刻的感受。<br><img src="https://raw.githubusercontent.com/btz2mzl/album_images/main/else/cities.jpg" alt="走过的地方"><br><img src="https://raw.githubusercontent.com/btz2mzl/album_images/main/else/rail_visited.jpg" alt="感受过的线路"></p>]]></content>
       
+      
+      <categories>
+          
+          <category> 总结 </category>
+          
+      </categories>
       
       
     </entry>
