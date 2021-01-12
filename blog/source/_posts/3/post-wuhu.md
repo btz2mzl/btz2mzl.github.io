@@ -9,7 +9,7 @@ coverImg: https://raw.githubusercontent.com/btz2mzl/album_images/main/3/wuhu_1.j
 password: 8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 toc: false
 mathjax: false
-summary: 江东名邑
+summary: 过尽千帆皆不是，斜晖脉脉水悠悠
 categories: 城市风情
 tags:
   - 华东
@@ -17,4 +17,4 @@ tags:
 ---
 # 芜湖
 ![黄昏中的镜湖](https://raw.githubusercontent.com/btz2mzl/album_images/main/3/wuhu_1.jpg)
-![长江上的日落别有一般滋味](https://raw.githubusercontent.com/btz2mzl/album_images/main/3/wuhu_2.jpg)
+![“过尽千帆皆不是，斜晖脉脉水悠悠”](https://raw.githubusercontent.com/btz2mzl/album_images/main/3/wuhu_2.jpg)

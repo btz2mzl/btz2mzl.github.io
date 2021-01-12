@@ -19,5 +19,5 @@ tags:
 ---
 # 太原
 ![晋祠的大气与白雪带来的低调相互交融](https://raw.githubusercontent.com/btz2mzl/album_images/main/1/taiyuan_1.jpg)
-![双塔静静地注视着坡下的人间烟火（永祚寺）](https://raw.githubusercontent.com/btz2mzl/album_images/main/1/taiyuan_2.jpg)
+![数百年来，双塔静静地注视着坡下的芸芸众生（永祚寺）](https://raw.githubusercontent.com/btz2mzl/album_images/main/1/taiyuan_2.jpg)
 ![迎泽大街展现出城市的大气](https://raw.githubusercontent.com/btz2mzl/album_images/main/1/taiyuan_3.jpg)

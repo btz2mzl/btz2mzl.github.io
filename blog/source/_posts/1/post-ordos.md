@@ -17,4 +17,4 @@ tags:
 ---
 # 鄂尔多斯
 豪放大气是内蒙古的风格，鄂尔多斯是其最典型的代表
-![雪后的康巴什更显空旷与冷清](https://raw.githubusercontent.com/btz2mzl/album_images/main/1/ordos_1.jpg)
+![#天空有多遥远#](https://raw.githubusercontent.com/btz2mzl/album_images/main/1/ordos_1.jpg)

@@ -18,7 +18,7 @@ tags:
 ---
 # 拉萨
 拉萨是立体的，世俗与拥挤或许才是它的常态
-![高原的夜（布达拉宫）](https://raw.githubusercontent.com/btz2mzl/album_images/main/5/lhasa_1.jpg)
+![#时光在布达拉宫越拉越长#](https://raw.githubusercontent.com/btz2mzl/album_images/main/5/lhasa_1.jpg)
 ![罗布林卡](https://raw.githubusercontent.com/btz2mzl/album_images/main/5/lhasa_2.jpg)
 ![哲蚌寺](https://raw.githubusercontent.com/btz2mzl/album_images/main/5/lhasa_3.jpg)
 ![八廓街](https://raw.githubusercontent.com/btz2mzl/album_images/main/5/lhasa_4.jpg)
